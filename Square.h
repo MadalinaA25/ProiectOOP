@@ -19,6 +19,7 @@ public:
 	 * @param C- the object to be copied
 	 */
 	Square(const Square& C);
+	Square();
 
 	/**
 	 * @brief Sets the lenght of a side
